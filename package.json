@@ -13,13 +13,13 @@
   "dependencies": {
     "@emotion/react": "11.1.5",
     "@emotion/styled": "11.1.5",
-    "@remirror/pm": "beta",
-    "@remirror/react": "beta",
-    "@remirror/styles": "beta",
+    "@remirror/pm": "latest",
+    "@remirror/react": "latest",
+    "@remirror/styles": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "4.0.3",
-    "remirror": "beta"
+    "remirror": "latest"
   },
   "devDependencies": {
     "@types/react": "17.0.0",
